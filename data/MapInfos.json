@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":650.4,"scrollY":390},
+{"id":1,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
 {"id":2,"expanded":true,"name":"Village House 1F","order":2,"parentId":0,"scrollX":640.8,"scrollY":426},
 {"id":3,"expanded":false,"name":"School Classroom","order":5,"parentId":4,"scrollX":650.4,"scrollY":390},
-{"id":4,"expanded":false,"name":"School Hall","order":4,"parentId":0,"scrollX":1088,"scrollY":624},
+{"id":4,"expanded":false,"name":"School Hall","order":4,"parentId":0,"scrollX":990.8571428571428,"scrollY":543.4285714285714},
 {"id":5,"expanded":false,"name":"Event Spawn","order":1,"parentId":0,"scrollX":650.4,"scrollY":390},
-{"id":6,"expanded":false,"name":"Lantai 2","order":6,"parentId":0,"scrollX":1104,"scrollY":1106},
-{"id":7,"expanded":false,"name":"Lantai 1","order":7,"parentId":0,"scrollX":1602,"scrollY":771.5999999999999},
-{"id":8,"expanded":false,"name":"Lantai 1.2","order":8,"parentId":0,"scrollX":2013.818181818182,"scrollY":1249.0909090909092}
+{"id":6,"expanded":false,"name":"Lantai 2","order":6,"parentId":0,"scrollX":1004.5714285714286,"scrollY":771.4285714285713},
+{"id":7,"expanded":false,"name":"Lantai 1","order":7,"parentId":0,"scrollX":1602.8571428571427,"scrollY":771.4285714285713},
+{"id":8,"expanded":false,"name":"Lantai 1.2","order":8,"parentId":0,"scrollX":1986.8571428571427,"scrollY":1530.8571428571427}
 ]
