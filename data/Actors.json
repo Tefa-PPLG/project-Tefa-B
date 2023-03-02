@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"character","characterIndex":0,"characterName":"$character","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tefa","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"character","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tefa","nickname":"","note":"","profile":""}
 ]
