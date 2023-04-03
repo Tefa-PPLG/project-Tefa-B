@@ -39,7 +39,7 @@ Game_Temp.prototype.reservedCommonEvent = function () {
 };
 
 Game_Temp.prototype.setDestination = function (x, y) {
-  return;
+  // return;
   // movement
   // gerak mouse
   this._destinationX = x;
@@ -75,7 +75,7 @@ function Game_System() {
 Game_System.prototype.initialize = function () {
   this._saveEnabled = true;
   // menu pause
-  this._menuEnabled = false;
+  this._menuEnabled = true;
   this._encounterEnabled = true;
   this._formationEnabled = true;
   this._battleCount = 0;
