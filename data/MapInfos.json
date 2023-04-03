@@ -1,14 +1,15 @@
 [
 null,
-{"id":1,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":650.4,"scrollY":366},
-{"id":2,"expanded":true,"name":"Village House 1F","order":2,"parentId":0,"scrollX":533.3333333333334,"scrollY":582.2222222222222},
-{"id":3,"expanded":true,"name":"Lantai 2","order":7,"parentId":0,"scrollX":1119,"scrollY":1924.5},
-{"id":4,"expanded":false,"name":"awalan","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":591.2727272727273,"scrollY":354.54545454545456},
+{"id":2,"expanded":true,"name":"Village House 1F","order":2,"parentId":0,"scrollX":582.5454545454546,"scrollY":509.4545454545455},
+{"id":3,"expanded":true,"name":"Lantai 2","order":7,"parentId":0,"scrollX":1165.0909090909092,"scrollY":709.0909090909091},
+{"id":4,"expanded":false,"name":"awalan","order":9,"parentId":0,"scrollX":591.2727272727273,"scrollY":354.54545454545456},
 {"id":5,"expanded":false,"name":"Event Spawn","order":1,"parentId":0,"scrollX":1182.5454545454545,"scrollY":709.0909090909091},
-{"id":6,"expanded":false,"name":"tutor pc","order":10,"parentId":0,"scrollX":650.4,"scrollY":366},
-{"id":7,"expanded":false,"name":"School Classroom","order":8,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":8,"expanded":true,"name":"Lantai 1.2","order":4,"parentId":0,"scrollX":2010,"scrollY":1216},
-{"id":9,"expanded":false,"name":"depan","order":6,"parentId":0,"scrollX":2562,"scrollY":2226},
-{"id":10,"expanded":false,"name":"Kantin","order":5,"parentId":0,"scrollX":474.6666666666667,"scrollY":1335.111111111111},
-{"id":11,"expanded":false,"name":"tutor hp","order":11,"parentId":0,"scrollX":650.4,"scrollY":366}
+{"id":6,"expanded":false,"name":"tutor pc","order":10,"parentId":0,"scrollX":591.2727272727273,"scrollY":354.54545454545456},
+{"id":7,"expanded":false,"name":"School Classroom","order":8,"parentId":0,"scrollX":582.5454545454546,"scrollY":413.4545454545455},
+{"id":8,"expanded":true,"name":"Lantai 1.2","order":4,"parentId":0,"scrollX":2013.818181818182,"scrollY":1013.4545454545455},
+{"id":9,"expanded":false,"name":"depan","order":6,"parentId":0,"scrollX":2009.142857142857,"scrollY":1947.4285714285713},
+{"id":10,"expanded":false,"name":"Kantin","order":5,"parentId":0,"scrollX":2136,"scrollY":1564},
+{"id":11,"expanded":false,"name":"tutor hp","order":11,"parentId":0,"scrollX":591.2727272727273,"scrollY":354.54545454545456},
+{"id":12,"expanded":false,"name":"tutor pc 2","order":12,"parentId":0,"scrollX":801,"scrollY":487.5}
 ]
