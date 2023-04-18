@@ -1,0 +1,23 @@
+<block:-1,-1,10,10,offbot,center>
+CREDITS
+
+\c[2]Engine
+Decy Alam Santoso
+Muhammad Farish Asqolani
+RPG Maker MV
+
+\c[2]Testing Game
+Pandu
+
+\c[2]Artwork
+Maulana
+Nabeel
+RPG Maker MV
+
+\c[2]Thanks
+All my supporters
+</block>
+
+<block:999,0,10,10,300,center>
+THE END
+</block>
