@@ -1,15 +1,18 @@
 [
 null,
-{"id":1,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":1445.3333333333333,"scrollY":866.6666666666666},
-{"id":2,"expanded":true,"name":"Village House 1F","order":2,"parentId":0,"scrollX":722.6666666666666,"scrollY":433.3333333333333},
-{"id":3,"expanded":true,"name":"Lantai 2","order":7,"parentId":0,"scrollX":1208,"scrollY":976},
-{"id":4,"expanded":true,"name":"awalan","order":8,"parentId":0,"scrollX":542,"scrollY":325},
+{"id":1,"expanded":false,"name":"House 2","order":3,"parentId":2,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":2,"expanded":true,"name":"Village House 1F","order":2,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":3,"expanded":true,"name":"Lantai 2","order":7,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1516.3636363636365},
+{"id":4,"expanded":true,"name":"awalan","order":8,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":5,"expanded":false,"name":"Event Spawn","order":1,"parentId":0,"scrollX":591.2727272727273,"scrollY":354.54545454545456},
 {"id":6,"expanded":false,"name":"tutor pc","order":9,"parentId":4,"scrollX":591.2727272727273,"scrollY":354.54545454545456},
-{"id":7,"expanded":false,"name":"RPS PPLG backup","order":12,"parentId":0,"scrollX":534,"scrollY":390},
-{"id":8,"expanded":true,"name":"Lantai 1.2","order":4,"parentId":0,"scrollX":1602,"scrollY":1218},
-{"id":9,"expanded":false,"name":"depan","order":6,"parentId":0,"scrollX":2013,"scrollY":1512},
-{"id":10,"expanded":false,"name":"Kantin","order":5,"parentId":0,"scrollX":801,"scrollY":1801.5},
+{"id":7,"expanded":false,"name":"RPS PPLG backup","order":12,"parentId":0,"scrollX":474.6666666666667,"scrollY":457.77777777777777},
+{"id":8,"expanded":true,"name":"Lantai 1.2","order":4,"parentId":0,"scrollX":1694.6666666666667,"scrollY":1922.6666666666667},
+{"id":9,"expanded":false,"name":"depan","order":6,"parentId":0,"scrollX":1514.1818181818182,"scrollY":1608},
+{"id":10,"expanded":false,"name":"Kantin","order":5,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1608},
 {"id":11,"expanded":false,"name":"tutor hp","order":10,"parentId":4,"scrollX":1626,"scrollY":975},
-{"id":12,"expanded":false,"name":"RPS PPLG ","order":11,"parentId":0,"scrollX":1626,"scrollY":975}
+{"id":12,"expanded":false,"name":"RPS PPLG ","order":11,"parentId":0,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
+{"id":13,"expanded":true,"name":" Rumah","order":13,"parentId":0,"scrollX":542,"scrollY":305},
+{"id":14,"expanded":false,"name":"Kamar","order":14,"parentId":13,"scrollX":542,"scrollY":305},
+{"id":15,"expanded":false,"name":"dapur","order":15,"parentId":13,"scrollX":542,"scrollY":305}
 ]

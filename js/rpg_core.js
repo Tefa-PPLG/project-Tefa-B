@@ -3124,6 +3124,7 @@ Input.keyMapper = {
   120: "debug", // F9
   87: "w", // w
   81: "q",
+  49: "skip",
 };
 
 /**
