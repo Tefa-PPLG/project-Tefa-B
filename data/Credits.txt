@@ -1,21 +1,25 @@
 <block:-1,-1,10,10,offbot,center>
 CREDITS
 
+\c[2]Tools
+RPG MAKER MV
+
 \c[2]Engine
 Decy Alam Santoso
 Muhammad Farish Asqolani
-RPG Maker MV
 
 \c[2]Testing Game
-Pandu
+Mathias Pandu Ari Dwi Setiawan
 
 \c[2]Artwork
-Maulana
-Nabeel
-RPG Maker MV
+Hafidz Arsyad Maulana
+Nabeel Farras Muhammad
 
-\c[2]Thanks
-All my supporters
+\c[2]Pembimbing
+Faridah Munawarah, S.Pd
+
+\c[2]Special Thanks To :
+Tim Kulakoding
 </block>
 
 <block:999,0,10,10,300,center>
