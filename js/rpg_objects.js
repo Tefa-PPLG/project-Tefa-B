@@ -39,7 +39,12 @@ Game_Temp.prototype.reservedCommonEvent = function () {
 };
 
 Game_Temp.prototype.setDestination = function (x, y) {
-  // return;
+  // berikan return agar controll d-pad tidak terganggu
+  /**
+   * dengan memberikan return maka
+   * controll click menggunakan karakter akan di disable
+   */
+  return;
   // movement
   // gerak mouse
   this._destinationX = x;
